@@ -1,0 +1,21 @@
+GET http://127.0.0.1:5000/actuator/routes
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2020-04-15T123035.200.json
+
+###
+
+GET http://127.0.0.1:5000/actuator/filters
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2020-04-15T123019.200.json
+
+###
+
+GET http://127.0.0.1:5000/actuator/loggers
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2020-04-15T123004.200.json
+
+###
+

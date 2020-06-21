@@ -1,0 +1,9 @@
+#encrypt:
+#  key: helloworld
+
+encrypt:
+  key-store:
+    location: config-server.keystore
+    alias: config-server
+    password: 123456
+    secret: 123456
