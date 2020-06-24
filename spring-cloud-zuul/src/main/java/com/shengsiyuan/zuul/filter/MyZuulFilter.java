@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.zuul.filters.support.FilterConstants;
 
 import javax.servlet.http.HttpServletRequest;
 
-public class MyZuulFilter extends ZuulFilter {
+    public class MyZuulFilter extends ZuulFilter {
 
     @Override
     public String filterType() {
@@ -30,7 +30,7 @@ public class MyZuulFilter extends ZuulFilter {
     @Override
     public Object run() throws ZuulException {
         System.out.println("Entered MyZuulFilter run Method");
-
+        //获取当前请求上下文
         RequestContext requestContext = RequestContext.getCurrentContext();
         HttpServletRequest request = requestContext.getRequest();
 

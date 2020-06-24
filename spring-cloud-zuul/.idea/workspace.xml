@@ -36,6 +36,9 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-cloud-zuul" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -48,7 +51,6 @@
   </component>
   <component name="ProjectId" id="1aYrD2nAu6VzveaOpSwMTaNvTzD" />
   <component name="ProjectViewState">
-    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,7 +72,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="ReactorSettings">
@@ -82,7 +87,21 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EurekaZuulClientApplication">
+    <configuration name="EurekaZuulClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.zuul.EurekaZuulClientApplication" />
+      <module name="spring-cloud-zuul.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shengsiyuan.zuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -112,6 +131,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EurekaZuulClientApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -136,29 +160,37 @@
       <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state x="184" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.849@0.23.1440.849" timestamp="1586579758873" />
+    <state x="783" y="155" key="#com.intellij.ide.util.ExportDialog" timestamp="1592738536119">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="783" y="155" key="#com.intellij.ide.util.ExportDialog/0.0.1536.834@0.0.1536.834" timestamp="1592738536119" />
     <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1586604414091">
       <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/0.23.1440.849@0.23.1440.849" timestamp="1586604414091" />
-    <state width="1398" height="371" key="GridCell.Tab.0.bottom" timestamp="1586607278052">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="241" key="GridCell.Tab.0.bottom" timestamp="1592748456720">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1238" height="392" key="GridCell.Tab.0.bottom/-2471.-1319.1920.1177/0.23.1440.850/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1586925040642" />
+    <state width="726" height="241" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592748456720" />
     <state width="1398" height="371" key="GridCell.Tab.0.bottom/0.23.1440.849@0.23.1440.849" timestamp="1586607278052" />
-    <state width="1398" height="371" key="GridCell.Tab.0.center" timestamp="1586607278051">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="241" key="GridCell.Tab.0.center" timestamp="1592748456719">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1238" height="392" key="GridCell.Tab.0.center/-2471.-1319.1920.1177/0.23.1440.850/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1586925040641" />
+    <state width="726" height="241" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592748456719" />
     <state width="1398" height="371" key="GridCell.Tab.0.center/0.23.1440.849@0.23.1440.849" timestamp="1586607278051" />
-    <state width="1398" height="371" key="GridCell.Tab.0.left" timestamp="1586607278051">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="241" key="GridCell.Tab.0.left" timestamp="1592748456719">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1238" height="392" key="GridCell.Tab.0.left/-2471.-1319.1920.1177/0.23.1440.850/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1586925040641" />
+    <state width="726" height="241" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592748456719" />
     <state width="1398" height="371" key="GridCell.Tab.0.left/0.23.1440.849@0.23.1440.849" timestamp="1586607278051" />
-    <state width="1398" height="371" key="GridCell.Tab.0.right" timestamp="1586607278052">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="241" key="GridCell.Tab.0.right" timestamp="1592748456720">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1238" height="392" key="GridCell.Tab.0.right/-2471.-1319.1920.1177/0.23.1440.850/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1586925040642" />
+    <state width="726" height="241" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592748456720" />
     <state width="1398" height="371" key="GridCell.Tab.0.right/0.23.1440.849@0.23.1440.849" timestamp="1586607278052" />
     <state width="1398" height="371" key="GridCell.Tab.1.bottom" timestamp="1586607278055">
       <screen x="0" y="23" width="1440" height="849" />
@@ -196,9 +228,14 @@
       <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state width="1398" height="371" key="GridCell.Tab.2.right/0.23.1440.849@0.23.1440.849" timestamp="1586607278057" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586593820094">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1592731795589">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592731795589" />
+    <state x="411" y="170" width="715" height="665" key="search.everywhere.popup" timestamp="1592739911904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="411" y="170" width="715" height="665" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1592739911904" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.23.1440.849@0.23.1440.849" timestamp="1586593820094" />
   </component>
   <component name="XDebuggerManager">

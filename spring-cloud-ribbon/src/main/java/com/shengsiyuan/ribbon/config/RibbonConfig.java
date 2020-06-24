@@ -1,6 +1,8 @@
 package com.shengsiyuan.ribbon.config;
 
 
+import com.netflix.loadbalancer.IRule;
+import com.netflix.loadbalancer.RoundRobinRule;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -13,5 +15,10 @@ public class RibbonConfig {
     @LoadBalanced
     public RestTemplate restTemplate() {
         return new RestTemplate();
+    }
+
+    @Bean
+    public IRule getRule(){
+        return new RoundRobinRule();
     }
 }

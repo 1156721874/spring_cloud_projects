@@ -1,11 +1,16 @@
 spring:
   application:
-    name: myConfig
+    name: config
+    # config的值是和https://github.com/1156721874/config-test/blob/master/config/config.properties
+    #config.properties的文件名字一致
   cloud:
     config:
       uri: http://localhost:7000
       label: master
       profile: develop
+      # https://github.com/1156721874/config-test/blob/master/config/config-develop.properties
+      # profile的配置值和config-develop.properties的"-"后的develop一致
+      # 如果没有配置profile，默认寻找github路径下的config.properties文件
 #      discovery:
 #        enabled: true
 #        service-id: config-server

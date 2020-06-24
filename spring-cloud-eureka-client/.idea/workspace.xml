@@ -87,7 +87,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-cloud-ribbon" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -105,7 +105,21 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EurekaClientApplication">
+    <configuration name="EurekaClientApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.eureka.client.EurekaClientApplication" />
+      <module name="spring-cloud-eureka-client.main" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shengsiyuan.eureka.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -136,6 +150,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.EurekaClientApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EurekaClientApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -162,33 +184,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584970466426">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state x="196" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589809356484">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="196" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1589809356484" />
     <state x="184" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.849@0.23.1440.849" timestamp="1584970466426" />
     <state x="533" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1584971824623">
       <screen x="0" y="23" width="1440" height="849" />
     </state>
     <state x="533" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1440.849@0.23.1440.849" timestamp="1584971824623" />
-    <state width="1398" height="339" key="GridCell.Tab.0.bottom" timestamp="1588322642523">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state x="932" y="172" key="FileChooserDialogImpl" timestamp="1592631536103">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="932" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1592631536103" />
+    <state width="726" height="238" key="GridCell.Tab.0.bottom" timestamp="1592748460297">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="2518" height="316" key="GridCell.Tab.0.bottom/-2471.-1319.1920.1177/0.23.1440.850/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1585284690815" />
+    <state width="726" height="238" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592748460297" />
     <state width="1398" height="339" key="GridCell.Tab.0.bottom/0.23.1440.849@0.23.1440.849" timestamp="1588322642523" />
-    <state width="1398" height="339" key="GridCell.Tab.0.center" timestamp="1588322642522">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="238" key="GridCell.Tab.0.center" timestamp="1592748460297">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="2518" height="316" key="GridCell.Tab.0.center/-2471.-1319.1920.1177/0.23.1440.850/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1585284690814" />
+    <state width="726" height="238" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592748460297" />
     <state width="1398" height="339" key="GridCell.Tab.0.center/0.23.1440.849@0.23.1440.849" timestamp="1588322642522" />
-    <state width="1398" height="339" key="GridCell.Tab.0.left" timestamp="1588322642522">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="238" key="GridCell.Tab.0.left" timestamp="1592748460297">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="2518" height="316" key="GridCell.Tab.0.left/-2471.-1319.1920.1177/0.23.1440.850/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1585284690814" />
+    <state width="726" height="238" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592748460297" />
     <state width="1398" height="339" key="GridCell.Tab.0.left/0.23.1440.849@0.23.1440.849" timestamp="1588322642522" />
-    <state width="1398" height="339" key="GridCell.Tab.0.right" timestamp="1588322642523">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="238" key="GridCell.Tab.0.right" timestamp="1592748460297">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="2518" height="316" key="GridCell.Tab.0.right/-2471.-1319.1920.1177/0.23.1440.850/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1585284690815" />
+    <state width="726" height="238" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592748460297" />
     <state width="1398" height="339" key="GridCell.Tab.0.right/0.23.1440.849@0.23.1440.849" timestamp="1588322642523" />
     <state width="1398" height="339" key="GridCell.Tab.1.bottom" timestamp="1588322642525">
       <screen x="0" y="23" width="1440" height="849" />
@@ -210,17 +241,38 @@
     </state>
     <state width="2518" height="316" key="GridCell.Tab.1.right/-2471.-1319.1920.1177/0.23.1440.850/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1585284690816" />
     <state width="1398" height="339" key="GridCell.Tab.1.right/0.23.1440.849@0.23.1440.849" timestamp="1588322642525" />
-    <state x="450" y="187" width="543" height="524" key="StructurePopup" timestamp="1584748100238">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state x="540" y="59" key="SettingsEditor" timestamp="1589700354591">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="540" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589700354591" />
+    <state x="783" y="151" width="580" height="515" key="StructurePopup" timestamp="1589710743147">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="783" y="151" width="580" height="515" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1589710743147" />
     <state x="450" y="187" width="543" height="524" key="StructurePopup/0.23.1440.849@0.23.1440.849" timestamp="1584748100238" />
-    <state width="1158" height="743" key="javadoc.popup.new" timestamp="1584747755383">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="1236" height="730" key="javadoc.popup.new" timestamp="1589709957510">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1236" height="730" key="javadoc.popup.new/0.0.1536.834@0.0.1536.834" timestamp="1589709957510" />
     <state width="1158" height="743" key="javadoc.popup.new/0.23.1440.849@0.23.1440.849" timestamp="1584747755383" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584747644213">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state x="411" y="170" width="715" height="665" key="search.everywhere.popup" timestamp="1589708950923">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="411" y="170" width="715" height="665" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1589708950923" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.23.1440.849@0.23.1440.849" timestamp="1584747644213" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://D:/gradlerepo/caches/modules-2/files-2.1/com.netflix.eureka/eureka-client/1.9.17/73e44cea6b278eb83f45718ac7a556c67fcde93c/eureka-client-1.9.17-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>845</line>
+          <properties class="com.netflix.discovery.DiscoveryClient" method="register">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

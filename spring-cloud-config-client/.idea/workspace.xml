@@ -43,7 +43,6 @@
   </component>
   <component name="ProjectId" id="1aZrVSmtdDW3nnbr70Ueo9ZxnxR" />
   <component name="ProjectViewState">
-    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,10 +64,24 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ConfigClientApplication">
+    <configuration name="ConfigClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.config.client.ConfigClientApplication" />
+      <module name="spring-cloud-config-client.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shengsiyuan.config.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -106,7 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConfigClientApplication" />
+        <item itemvalue="Application.ConfigClientApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -138,25 +151,29 @@
     </state>
     <state x="1182" y="-1013" key="#com.intellij.ide.util.MemberChooser/-2471.-1319.1920.1177/0.23.1440.877/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1587009330001" />
     <state x="975" y="265" key="#com.intellij.ide.util.MemberChooser/0.23.1440.849@0.23.1440.849" timestamp="1587200044219" />
-    <state width="1398" height="397" key="GridCell.Tab.0.bottom" timestamp="1587307322500">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="204" key="GridCell.Tab.0.bottom" timestamp="1592922350099">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1238" height="476" key="GridCell.Tab.0.bottom/-2471.-1319.1920.1177/0.23.1440.877/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1587010353421" />
+    <state width="726" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592922350099" />
     <state width="1398" height="397" key="GridCell.Tab.0.bottom/0.23.1440.849@0.23.1440.849" timestamp="1587307322500" />
-    <state width="1398" height="397" key="GridCell.Tab.0.center" timestamp="1587307322499">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="204" key="GridCell.Tab.0.center" timestamp="1592922350099">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1238" height="476" key="GridCell.Tab.0.center/-2471.-1319.1920.1177/0.23.1440.877/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1587010353420" />
+    <state width="726" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592922350099" />
     <state width="1398" height="397" key="GridCell.Tab.0.center/0.23.1440.849@0.23.1440.849" timestamp="1587307322499" />
-    <state width="1398" height="397" key="GridCell.Tab.0.left" timestamp="1587307322498">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="204" key="GridCell.Tab.0.left" timestamp="1592922350099">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1238" height="476" key="GridCell.Tab.0.left/-2471.-1319.1920.1177/0.23.1440.877/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1587010353419" />
+    <state width="726" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592922350099" />
     <state width="1398" height="397" key="GridCell.Tab.0.left/0.23.1440.849@0.23.1440.849" timestamp="1587307322498" />
-    <state width="1398" height="397" key="GridCell.Tab.0.right" timestamp="1587307322499">
-      <screen x="0" y="23" width="1440" height="849" />
+    <state width="726" height="204" key="GridCell.Tab.0.right" timestamp="1592922350099">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1238" height="476" key="GridCell.Tab.0.right/-2471.-1319.1920.1177/0.23.1440.877/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1587010353420" />
+    <state width="726" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592922350099" />
     <state width="1398" height="397" key="GridCell.Tab.0.right/0.23.1440.849@0.23.1440.849" timestamp="1587307322499" />
     <state width="1398" height="397" key="GridCell.Tab.1.bottom" timestamp="1587307322501">
       <screen x="0" y="23" width="1440" height="849" />
@@ -178,5 +195,9 @@
     </state>
     <state width="1238" height="476" key="GridCell.Tab.1.right/-2471.-1319.1920.1177/0.23.1440.877/-551.-1417.2560.1417@-551.-1417.2560.1417" timestamp="1587010353422" />
     <state width="1398" height="397" key="GridCell.Tab.1.right/0.23.1440.849@0.23.1440.849" timestamp="1587307322501" />
+    <state x="540" y="59" key="SettingsEditor" timestamp="1592921971637">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="540" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592921971637" />
   </component>
 </project>

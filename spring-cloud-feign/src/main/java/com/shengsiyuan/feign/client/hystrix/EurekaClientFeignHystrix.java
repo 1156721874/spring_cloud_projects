@@ -5,7 +5,7 @@ import com.shengsiyuan.feign.domain.Parent;
 import com.shengsiyuan.feign.domain.Student;
 import org.springframework.stereotype.Component;
 
-//@Component
+@Component
 public class EurekaClientFeignHystrix implements EurekaClientFeign {
 
     @Override
